@@ -2,12 +2,15 @@ XML-RPC.NET - XML-RPC for .NET
 v1.0.0 Release
 Copyright (C) 2001-2010 Charles Cook (chascook@gmail.com)
 
+v3.0.0 Release
+Copyright (C) 2019 Aaron Lord (aaron@lorddesign.net)
+
 xmlrpcgen 
 Copyright (C) 2003 Joe Bork
 
 nunit
-Copyright © 2002-2004 James W. Newkirk, Michael C. Two, Alexei A. Vorontsov, Charlie Poole
-Copyright © 2000-2004 Philip A. Craig
+Copyright Â© 2002-2004 James W. Newkirk, Michael C. Two, Alexei A. Vorontsov, Charlie Poole
+Copyright Â© 2000-2004 Philip A. Craig
 
 
 
